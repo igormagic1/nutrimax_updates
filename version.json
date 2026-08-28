@@ -10,5 +10,16 @@
     "Poboljšana registracija i prijava.",
     "Dodana potvrda e-mail adrese i ponovno slanje potvrde.",
     "Dodano sigurno postavljanje nove lozinke."
+  ],
+  "releases": [
+    {
+      "version": "1.0.20",
+      "build": 24,
+      "changelog": [
+        "Poboljšana registracija i prijava.",
+        "Dodana potvrda e-mail adrese i ponovno slanje potvrde.",
+        "Dodano sigurno postavljanje nove lozinke."
+      ]
+    }
   ]
 }
