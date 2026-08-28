@@ -1,0 +1,14 @@
+{
+  "latestVersion": "1.0.20",
+  "latestBuild": 24,
+  "minSupportedVersion": "1.0.19",
+  "minSupportedBuild": 23,
+  "isCritical": false,
+  "playStoreUrl": "market://details?id=com.znamo.nutrimax",
+  "fallbackUrl": "https://play.google.com/store/apps/details?id=com.znamo.nutrimax",
+  "changelog": [
+    "Poboljšana registracija i prijava.",
+    "Dodana potvrda e-mail adrese i ponovno slanje potvrde.",
+    "Dodano sigurno postavljanje nove lozinke."
+  ]
+}
