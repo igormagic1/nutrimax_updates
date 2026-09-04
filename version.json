@@ -1,15 +1,18 @@
 {
-  "latestVersion": "1.0.22",
-  "latestBuild": 27,
+  "latestVersion": "1.0.28",
+  "latestBuild": 33,
   "minSupportedVersion": "1.0.19",
   "minSupportedBuild": 23,
   "isCritical": false,
   "playStoreUrl": "market://details?id=com.znamo.nutrimax",
   "fallbackUrl": "https://play.google.com/store/apps/details?id=com.znamo.nutrimax",
   "changelog": [
-    "Poboljšan je rad skenera bez interneta.",
-    "Dodana su vlakna u prikaz i poboljšano njihovo OCR prepoznavanje.",
-    "Jasnije su označeni potvrđeni NutriMax podaci i nedostajuće nutritivne vrijednosti."
+    "Dodana je automatska provjera i nadogradnja izravno preko Google Playa.",
+    "Obavijest Što je novo sada je ugrađena u aplikaciju i radi i bez interneta.",
+    "Označavanje stavke na popisu za kupnju više ne vraća popis na vrh.",
+    "Poboljšan je oporavak proizvoda skeniranih bez interneta.",
+    "Vrijednost 0 sada se opisuje kao Ne sadrži, a nizak udio samo kada postoji mala pozitivna količina.",
+    "U statistici se uz proizvode ponovno prikazuju njihove slike."
   ],
   "releases": [
     {
@@ -28,6 +31,18 @@
         "Poboljšan je rad skenera bez interneta.",
         "Dodana su vlakna u prikaz i poboljšano njihovo OCR prepoznavanje.",
         "Jasnije su označeni potvrđeni NutriMax podaci i nedostajuće nutritivne vrijednosti."
+      ]
+    },
+    {
+      "version": "1.0.28",
+      "build": 33,
+      "changelog": [
+        "Dodana je automatska provjera i nadogradnja izravno preko Google Playa.",
+        "Obavijest Što je novo sada je ugrađena u aplikaciju i radi i bez interneta.",
+        "Označavanje stavke na popisu za kupnju više ne vraća popis na vrh.",
+        "Poboljšan je oporavak proizvoda skeniranih bez interneta.",
+        "Vrijednost 0 sada se opisuje kao Ne sadrži, a nizak udio samo kada postoji mala pozitivna količina.",
+        "U statistici se uz proizvode ponovno prikazuju njihove slike."
       ]
     }
   ]
