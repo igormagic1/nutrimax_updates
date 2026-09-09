@@ -1,18 +1,17 @@
 {
-  "latestVersion": "1.0.28",
-  "latestBuild": 33,
+  "latestVersion": "1.0.30",
+  "latestBuild": 35,
   "minSupportedVersion": "1.0.19",
   "minSupportedBuild": 23,
   "isCritical": false,
   "playStoreUrl": "market://details?id=com.znamo.nutrimax",
   "fallbackUrl": "https://play.google.com/store/apps/details?id=com.znamo.nutrimax",
   "changelog": [
-    "Dodana je automatska provjera i nadogradnja izravno preko Google Playa.",
-    "Obavijest Što je novo sada je ugrađena u aplikaciju i radi i bez interneta.",
-    "Označavanje stavke na popisu za kupnju više ne vraća popis na vrh.",
-    "Poboljšan je oporavak proizvoda skeniranih bez interneta.",
-    "Vrijednost 0 sada se opisuje kao Ne sadrži, a nizak udio samo kada postoji mala pozitivna količina.",
-    "U statistici se uz proizvode ponovno prikazuju njihove slike."
+    "Dodani su izbor hrvatskog ili engleskog jezika te HR/EN prijevodi uvoda, Početne, Profila i rezultata analize.",
+    "Uvodni vodič sada se može ponovno otvoriti iz preglednije posloženog Profila.",
+    "Status popisa za kupnju sada se može podijeliti putem aplikacija na uređaju.",
+    "Ispravljeno je lažno upozorenje E501 iz riječi sol i dodano prepoznavanje naziva Na-alginat kao E401.",
+    "Potvrđeni NutriMax proizvodi zadržavaju ispravan izvor i ponovno koriste spremljene podatke bez nepotrebne nove analize."
   ],
   "releases": [
     {
@@ -43,6 +42,17 @@
         "Poboljšan je oporavak proizvoda skeniranih bez interneta.",
         "Vrijednost 0 sada se opisuje kao Ne sadrži, a nizak udio samo kada postoji mala pozitivna količina.",
         "U statistici se uz proizvode ponovno prikazuju njihove slike."
+      ]
+    },
+    {
+      "version": "1.0.30",
+      "build": 35,
+      "changelog": [
+        "Dodani su izbor hrvatskog ili engleskog jezika te HR/EN prijevodi uvoda, Početne, Profila i rezultata analize.",
+        "Uvodni vodič sada se može ponovno otvoriti iz preglednije posloženog Profila.",
+        "Status popisa za kupnju sada se može podijeliti putem aplikacija na uređaju.",
+        "Ispravljeno je lažno upozorenje E501 iz riječi sol i dodano prepoznavanje naziva Na-alginat kao E401.",
+        "Potvrđeni NutriMax proizvodi zadržavaju ispravan izvor i ponovno koriste spremljene podatke bez nepotrebne nove analize."
       ]
     }
   ]
