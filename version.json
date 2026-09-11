@@ -1,17 +1,19 @@
 {
-  "latestVersion": "1.0.30",
-  "latestBuild": 35,
+  "latestVersion": "1.0.31",
+  "latestBuild": 36,
   "minSupportedVersion": "1.0.19",
   "minSupportedBuild": 23,
   "isCritical": false,
   "playStoreUrl": "market://details?id=com.znamo.nutrimax",
   "fallbackUrl": "https://play.google.com/store/apps/details?id=com.znamo.nutrimax",
   "changelog": [
-    "Dodani su izbor hrvatskog ili engleskog jezika te HR/EN prijevodi uvoda, Početne, Profila i rezultata analize.",
-    "Uvodni vodič sada se može ponovno otvoriti iz preglednije posloženog Profila.",
-    "Status popisa za kupnju sada se može podijeliti putem aplikacija na uređaju.",
-    "Ispravljeno je lažno upozorenje E501 iz riječi sol i dodano prepoznavanje naziva Na-alginat kao E401.",
-    "Potvrđeni NutriMax proizvodi zadržavaju ispravan izvor i ponovno koriste spremljene podatke bez nepotrebne nove analize."
+    "Engleski prijevod proširen je na skener i detalje proizvoda te aditive, povijest, proizvode na čekanju, statistiku, alergene, povratne informacije, upute te sigurnost i privatnost.",
+    "Pretraga aditiva radi po hrvatskim i engleskim nazivima, uz lokalizirane funkcije i kategorije.",
+    "Ispravljeno je bodovanje čiste soli i šećera, uz jasniji prikaz ograničenja odbitaka.",
+    "Poboljšano je očitavanje 100 g soli i prikaz vrlo malih nutritivnih vrijednosti.",
+    "Pri spremanju i nastavku analize čuvaju se izvor potvrđenih podataka, NOVA i Eco-Score iz baze.",
+    "Čokoladi se više ne nude mliječne zamjene samo zbog mlijeka među sastojcima.",
+    "NOVA i Eco-Score na detaljima otvaraju objašnjenje; uklonjeno je izravno uređivanje i dijagnostički prečac iz Google Play verzije."
   ],
   "releases": [
     {
@@ -53,6 +55,19 @@
         "Status popisa za kupnju sada se može podijeliti putem aplikacija na uređaju.",
         "Ispravljeno je lažno upozorenje E501 iz riječi sol i dodano prepoznavanje naziva Na-alginat kao E401.",
         "Potvrđeni NutriMax proizvodi zadržavaju ispravan izvor i ponovno koriste spremljene podatke bez nepotrebne nove analize."
+      ]
+    },
+    {
+      "version": "1.0.31",
+      "build": 36,
+      "changelog": [
+        "Engleski prijevod proširen je na skener i detalje proizvoda te aditive, povijest, proizvode na čekanju, statistiku, alergene, povratne informacije, upute te sigurnost i privatnost.",
+        "Pretraga aditiva radi po hrvatskim i engleskim nazivima, uz lokalizirane funkcije i kategorije.",
+        "Ispravljeno je bodovanje čiste soli i šećera, uz jasniji prikaz ograničenja odbitaka.",
+        "Poboljšano je očitavanje 100 g soli i prikaz vrlo malih nutritivnih vrijednosti.",
+        "Pri spremanju i nastavku analize čuvaju se izvor potvrđenih podataka, NOVA i Eco-Score iz baze.",
+        "Čokoladi se više ne nude mliječne zamjene samo zbog mlijeka među sastojcima.",
+        "NOVA i Eco-Score na detaljima otvaraju objašnjenje; uklonjeno je izravno uređivanje i dijagnostički prečac iz Google Play verzije."
       ]
     }
   ]
