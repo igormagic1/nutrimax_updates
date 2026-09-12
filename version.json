@@ -1,19 +1,18 @@
 {
-  "latestVersion": "1.0.31",
-  "latestBuild": 36,
+  "latestVersion": "1.0.32",
+  "latestBuild": 37,
   "minSupportedVersion": "1.0.19",
   "minSupportedBuild": 23,
   "isCritical": false,
   "playStoreUrl": "market://details?id=com.znamo.nutrimax",
   "fallbackUrl": "https://play.google.com/store/apps/details?id=com.znamo.nutrimax",
   "changelog": [
-    "Engleski prijevod proširen je na skener i detalje proizvoda te aditive, povijest, proizvode na čekanju, statistiku, alergene, povratne informacije, upute te sigurnost i privatnost.",
-    "Pretraga aditiva radi po hrvatskim i engleskim nazivima, uz lokalizirane funkcije i kategorije.",
-    "Ispravljeno je bodovanje čiste soli i šećera, uz jasniji prikaz ograničenja odbitaka.",
-    "Poboljšano je očitavanje 100 g soli i prikaz vrlo malih nutritivnih vrijednosti.",
-    "Pri spremanju i nastavku analize čuvaju se izvor potvrđenih podataka, NOVA i Eco-Score iz baze.",
-    "Čokoladi se više ne nude mliječne zamjene samo zbog mlijeka među sastojcima.",
-    "NOVA i Eco-Score na detaljima otvaraju objašnjenje; uklonjeno je izravno uređivanje i dijagnostički prečac iz Google Play verzije."
+    "Nova navigacija i stranica Hrana s tražilicom artikala.",
+    "Usporedba dva ili više artikala uz jasne nutritivne razlike.",
+    "Katalog 35 osnovnih namirnica bez barkoda, dostupan i bez interneta.",
+    "Prijedlozi za kupovinu i alternative s konkretnim razlozima i potvrdom zamjene.",
+    "Poboljšani su offline dohvat, spremljene slike i slanje prijedloga u pozadini.",
+    "Ispravljeni su oznaka NutriMax artikla i prikaz nedostajućih podataka, uz HR/EN sučelje novih funkcija."
   ],
   "releases": [
     {
@@ -68,6 +67,18 @@
         "Pri spremanju i nastavku analize čuvaju se izvor potvrđenih podataka, NOVA i Eco-Score iz baze.",
         "Čokoladi se više ne nude mliječne zamjene samo zbog mlijeka među sastojcima.",
         "NOVA i Eco-Score na detaljima otvaraju objašnjenje; uklonjeno je izravno uređivanje i dijagnostički prečac iz Google Play verzije."
+      ]
+    },
+    {
+      "version": "1.0.32",
+      "build": 37,
+      "changelog": [
+        "Nova navigacija i stranica Hrana s tražilicom artikala.",
+        "Usporedba dva ili više artikala uz jasne nutritivne razlike.",
+        "Katalog 35 osnovnih namirnica bez barkoda, dostupan i bez interneta.",
+        "Prijedlozi za kupovinu i alternative s konkretnim razlozima i potvrdom zamjene.",
+        "Poboljšani su offline dohvat, spremljene slike i slanje prijedloga u pozadini.",
+        "Ispravljeni su oznaka NutriMax artikla i prikaz nedostajućih podataka, uz HR/EN sučelje novih funkcija."
       ]
     }
   ]
