@@ -1,18 +1,16 @@
 {
-  "latestVersion": "1.0.32",
-  "latestBuild": 37,
+  "latestVersion": "1.0.34",
+  "latestBuild": 39,
   "minSupportedVersion": "1.0.19",
   "minSupportedBuild": 23,
   "isCritical": false,
   "playStoreUrl": "market://details?id=com.znamo.nutrimax",
   "fallbackUrl": "https://play.google.com/store/apps/details?id=com.znamo.nutrimax",
   "changelog": [
-    "Nova navigacija i stranica Hrana s tražilicom artikala.",
-    "Usporedba dva ili više artikala uz jasne nutritivne razlike.",
-    "Katalog 35 osnovnih namirnica bez barkoda, dostupan i bez interneta.",
-    "Prijedlozi za kupovinu i alternative s konkretnim razlozima i potvrdom zamjene.",
-    "Poboljšani su offline dohvat, spremljene slike i slanje prijedloga u pozadini.",
-    "Ispravljeni su oznaka NutriMax artikla i prikaz nedostajućih podataka, uz HR/EN sučelje novih funkcija."
+    "Optimiziran je prikaz fotografija i ubačena brza obrada minijatura za brže listanje bez zastajkivanja.",
+    "Spriječeno je nepotrebno dvostruko slanje artikla i automatski uklonjen gumb nakon potvrde.",
+    "Dodan je pregled Novosti i nadogradnje na profilu za uvid u povijest izmjena u svakom trenutku.",
+    "Plava boja donje navigacije usklađena je s bojom skena nutritivne tablice."
   ],
   "releases": [
     {
@@ -79,6 +77,27 @@
         "Prijedlozi za kupovinu i alternative s konkretnim razlozima i potvrdom zamjene.",
         "Poboljšani su offline dohvat, spremljene slike i slanje prijedloga u pozadini.",
         "Ispravljeni su oznaka NutriMax artikla i prikaz nedostajućih podataka, uz HR/EN sučelje novih funkcija."
+      ]
+    },
+    {
+      "version": "1.0.33",
+      "build": 38,
+      "changelog": [
+        "Postojeća fotografija proizvoda prenosi se pri slanju podataka bez novih slika.",
+        "Preglednija stranica Hrana s istaknutom pretragom i usporedbom.",
+        "Kompaktniji profil s prehrambenim postavkama na vrhu i čitljivijim naslovima.",
+        "Usklađen izgled ekrana i plava NutriMax navigacija uz očuvanu svijetlu pozadinu.",
+        "Ujednačeno zatvaranje panela povlačenjem i potvrda odbacivanja nespremljenih promjena."
+      ]
+    },
+    {
+      "version": "1.0.34",
+      "build": 39,
+      "changelog": [
+        "Optimiziran je prikaz fotografija i ubačena brza obrada minijatura za brže listanje bez zastajkivanja.",
+        "Spriječeno je nepotrebno dvostruko slanje artikla i automatski uklonjen gumb nakon potvrde.",
+        "Dodan je pregled Novosti i nadogradnje na profilu za uvid u povijest izmjena u svakom trenutku.",
+        "Plava boja donje navigacije usklađena je s bojom skena nutritivne tablice."
       ]
     }
   ]
